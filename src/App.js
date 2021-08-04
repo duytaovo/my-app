@@ -1,5 +1,11 @@
+import Routes from './Routes'
+
 function App() {
-  return <div className="App">Duy Tao12354</div>;
+  return (
+    <div className="App">
+      <Routes />
+    </div>
+  )
 }
 
-export default App;
+export default App
